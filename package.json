@@ -1,0 +1,15 @@
+{
+    "name": "nodejs-twillo-send-whatsapp-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "node": "index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "twilio": "^3.68.0"
+    }
+}
